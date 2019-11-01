@@ -1,8 +1,6 @@
     import java.io.*;
     import java.util.*;
-    import java.text.*;
     import java.math.*;
-    import java.util.regex.*;
 
     public class Solution 
     {
@@ -29,10 +27,6 @@
                 ans="Not Weird";
             }
             
-            
-            
-               //Complete the code
-                
         System.out.println(ans);
                 
         }
